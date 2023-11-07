@@ -1,3 +1,19 @@
+![Project preview](https://github.com/catherineisonline/weather-now/blob/main/public/project-preview-1.png?raw=true)
+![Project preview](https://github.com/catherineisonline/weather-now/blob/main/public/project-preview-2.png?raw=true)
+![Project preview](https://github.com/catherineisonline/weather-now/blob/main/public/project-preview-3.png?raw=true)
+
+# Climatic
+
+Climatic is a simple project that utilizes a weather API to display the current weather conditions of a specified location. The project is built using React and CSS. The user can enter a location or use their current location to see the current temperature, humidity, wind speed, and other relevant weather information. The project also includes a user-friendly interface that displays the information in an easy-to-read format. The goal of this project is to provide an easy and quick way for users to check the current weather conditions of any location.
+
+
+# Available dependencies
+- [Open Weather](https://openweathermap.org/)
+- [Illustrations Author](https://www.freepik.com/author/starline)
+- [React Spinners](https://www.npmjs.com/package/react-spinners)
+- [IPInfo](https://ipinfo.io/)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -31,40 +47,10 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Contribution
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+This project serves as a project to show off my personal skills. I do not accept any contributions like pull requests to this project however if you have any suggestions or ideas feel free to message me or submit an idea in the [discussions](https://github.com/catherineisonline/weather-now/discussions). Otherwise, you are free to fork this project and change it for your own purposes.  
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
